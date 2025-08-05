@@ -84,8 +84,8 @@ if st.session_state.form_submitted == True:
 - You've got more than half your life left, don't waste it!''')
     elif life_used_up >= .50 and life_used_up <= .75:
         st.warning(f"""#### Based on the average life expectancy of 73.4, you have used up {life_used_up:.2%} of your life.\n
-    - It's all downhill from here!
-    - Maybe look into a Corvette...""")
+- It's all downhill from here!
+- Maybe look into a Corvette...""")
     else:
         
 
