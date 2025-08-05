@@ -75,7 +75,7 @@ if st.session_state.form_submitted == True:
 - You most likely graduated highschool in {int(birth_year+18)} or {int(birth_year+19)}''')
     st.info(f'''#### Here are some possible usernames and each associated email address:
             
-            1. {first_username_option} - {first_username_option.lower()+'@gmail.com'}
+1. {first_username_option} - {first_username_option.lower()+'@gmail.com'}
     2. {second_username_option} - {second_username_option.lower()+'@gmail.com'}
     3. {third_username_option} - {third_username_option.lower()+'@gmail.com'}''')
 
