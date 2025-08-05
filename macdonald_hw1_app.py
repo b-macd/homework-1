@@ -40,7 +40,7 @@ with col2:
     st.markdown(
         f"""
         <div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
-        <h1 style = "text-align: center; margin: 0;">170A Python Homework 1</h1>
+        <h1 style = "text-align: center; margin: 0;">MacDonald Python Homework 1</h1>
         </div>
         """,
         unsafe_allow_html=True
